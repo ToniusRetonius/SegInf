@@ -3,7 +3,7 @@ Cursada segundo cuatri 2025
 
 # Resúmenes de las clases  
 
-- Teórica 1 : [ Introducción](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T1/Resumen%20T1.pdf).
+- Teórica 1 : [ Introducción](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T1/Resumen%20T1.pdf)
 
 - Teórica 2 : [ Control de Acceso](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T2/Resumen%20T2.pdf)
 
