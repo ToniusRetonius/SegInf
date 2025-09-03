@@ -3,7 +3,7 @@ Cursada segundo cuatri 2025
 
 # Resúmenes de las clases  
 
-## Unidad 1 : Introducción
+## Unidad 1 : Introducción a Seguridad de la Información
 - Teórica 1 : [ Introducción](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T1/Resumen%20T1.pdf)
 
 ## Unidad 2 : Control de Acceso
