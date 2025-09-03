@@ -13,6 +13,8 @@ Cursada segundo cuatri 2025
 
 ## Unidad 3 : Criptografía
 
+- Teórica 4 : [ Introducción a Criptografía](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T4/Resumen%20T4.pdf)
+
 # Ejercicios
 
 - Unidad 1 : Introducción [ solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
