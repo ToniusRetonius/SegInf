@@ -16,6 +16,9 @@ Cursada segundo cuatri 2025
 - Teórica 4 : [ Introducción a Criptografía](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T4/Resumen%20T4.pdf)
 
 - Teórica 5 : [ Continuación Criptografía Moderna](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T5/Resumen%20T5.pdf)
+
+- Teórica 6 : [ Certificados](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T6/Resumen%20T6.pdf)
+
 # Ejercicios
 
 - Unidad 1 : Introducción [ solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
