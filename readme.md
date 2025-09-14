@@ -23,7 +23,12 @@ Cursada segundo cuatri 2025
 
 
 ### Unidad 4 : Autenticación
+- Teórica 8 : [Autenticación](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T8/Resumen%20T8.pdf)
 
 # Ejercicios
 
-- Unidad 1 : Introducción [ solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
+- Unidad 1 : Introducción [Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/P1.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
+
+- Unidad 3 : Criptografía [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/practica_unidad3.pdf)
+
+- Unidad 4 : Autenticación [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/practica4.pdf)
