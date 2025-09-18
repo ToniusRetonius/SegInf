@@ -25,6 +25,9 @@ Cursada segundo cuatri 2025
 ### Unidad 4 : Autenticación
 - Teórica 8 : [Autenticación](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T8/Resumen%20T8.pdf)
 
+
+### Seguridad en redes
+- Teórica 9 : [Modelo TCP/IP](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T9/Resumen%20T9.pdf)
 # Ejercicios
 
 - Unidad 1 : Introducción [Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/P1.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
