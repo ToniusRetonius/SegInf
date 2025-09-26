@@ -28,10 +28,13 @@ Cursada segundo cuatri 2025
 
 ### Seguridad en redes
 - Teórica 9 : [Modelo TCP/IP](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T9/Resumen%20T9.pdf)
+
+- Teórica 10 : [ Firewall](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T10/Resumen%20T10.pdf)
+
 # Ejercicios
 
 - Unidad 1 : Introducción [Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/P1.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
 
-- Unidad 3 : Criptografía [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/practica_unidad3.pdf)
+- Unidad 3 : Criptografía [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/practica_unidad3.pdf) [Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/solve%20P3.pdf)
 
 - Unidad 4 : Autenticación [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/practica4.pdf)
