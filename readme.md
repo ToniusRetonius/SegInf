@@ -29,7 +29,13 @@ Cursada segundo cuatri 2025
 ### Unidad 5 : Seguridad en redes
 - Teórica 9 : [Modelo TCP/IP](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T9/Resumen%20T9.pdf)
 
-- Teórica 10 : [ Firewall](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T10/Resumen%20T10.pdf)
+- Teórica 10 : [Firewall](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T10/Resumen%20T10.pdf)
+
+- Teórica 11 : [Monitoreo y Sistema de Detección de Intrusiones ](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T11/Resumen%20T11.pdf)
+
+- Teórica 12 : [Redes Privadas Virtuales (VPN)](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T12/Resumen%20T12.pdf)
+
+- Teórica 13 : [WiFi](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T13/Resumen%20T13.pdf)
 
 # Ejercicios
 
@@ -38,3 +44,5 @@ Cursada segundo cuatri 2025
 - Unidad 3 : Criptografía [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/practica_unidad3.pdf) [Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/solve%20P3.pdf)
 
 - Unidad 4 : Autenticación [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/practica4.pdf)
+
+- Unidad 5 : Redes [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/5/practica5.pdf)
