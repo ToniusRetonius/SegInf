@@ -37,6 +37,14 @@ Cursada segundo cuatri 2025
 
 - Teórica 13 : [WiFi](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T13/Resumen%20T13.pdf)
 
+### Unidad 6 : Desarrollo seguro
+
+- Teórica 14 : [ Desarrollo seguro - Parte I](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T14/Resumen%20T14.pdf)
+
+- Teórica 15 : [ Desarrollo seguro - Parte II](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T15/Resumen%20T15.pdf)
+
+- Teórica 16 : [ Seguridad en Aplicaciones Web](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T16/Resumen%20T16.pdf)
+
 # Ejercicios
 
 - Unidad 1 : Introducción [Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/P1.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
@@ -46,3 +54,12 @@ Cursada segundo cuatri 2025
 - Unidad 4 : Autenticación [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/practica4.pdf)
 
 - Unidad 5 : Redes [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/5/practica5.pdf)
+
+# Talleres
+
+- Taller 1 : Seguridad en aplicaciones Web [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Talleres/Taller%201%20-%20seguridad%20en%20webapp/Enunciado.pdf)
+
+
+# Trabajo Práctico
+
+- TP Seguridad [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/TP/Enunciados.pdf)
