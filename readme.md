@@ -51,7 +51,7 @@ Cursada segundo cuatri 2025
 
 - Unidad 3 : Criptografía [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/practica_unidad3.pdf) [Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/solve%20P3.pdf)
 
-- Unidad 4 : Autenticación [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/practica4.pdf)
+- Unidad 4 : Autenticación [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/practica4.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/solve.pdf)
 
 - Unidad 5 : Redes [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/5/practica5.pdf)
 
