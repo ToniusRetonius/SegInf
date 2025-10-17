@@ -45,6 +45,8 @@ Cursada segundo cuatri 2025
 
 - Teórica 16 : [ Seguridad en Aplicaciones Web](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T16/Resumen%20T16.pdf)
 
+- Teórica 17 : [ Malware](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T17/Resumen%20T17.pdf)
+
 # Ejercicios
 
 - Unidad 1 : Introducción [Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/P1.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
