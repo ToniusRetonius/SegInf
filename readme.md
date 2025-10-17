@@ -59,7 +59,7 @@ Cursada segundo cuatri 2025
 
 # Talleres
 
-- Taller 1 : Seguridad en aplicaciones Web [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Talleres/Taller%201%20-%20seguridad%20en%20webapp/Enunciado.pdf)
+- Taller 1 : Seguridad en aplicaciones Web [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Talleres/Taller%201%20-%20seguridad%20en%20webapp/Enunciado.pdf) [ Notas](https://github.com/ToniusRetonius/SegInf/blob/main/Talleres/Taller%201%20-%20seguridad%20en%20webapp/readme.md)
 
 
 # Trabajo Práctico
