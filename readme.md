@@ -55,7 +55,7 @@ Cursada segundo cuatri 2025
 
 - Unidad 4 : Autenticación [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/practica4.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/4/solve.pdf)
 
-- Unidad 5 : Redes [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/5/practica5.pdf)
+- Unidad 5 : Redes [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/5/practica5.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/5/solve.pdf)
 
 # Talleres
 
