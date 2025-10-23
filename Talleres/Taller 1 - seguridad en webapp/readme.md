@@ -25,3 +25,6 @@ La VM que vamos a usar es [Dojo-3.4.1.ova](https://sourceforge.net/projects/webs
 
 4. **Levantar la VM**
    - Una vez hecho lo anterior, iniciar la VM desde VirtualBox.
+
+## Introducción
+Para comenzar a resolver el taller hay que ir al botón azul de arriba a la derecha (*Start*) y seleccionar en  `Tools > Zed Attack Proxy `. Este programa nos va a permitir ser intermediario en las peticiones y jugar con eso. Es importante conectarnos a la página vulnerable a través de él. Por tanto, primero vamos a abrirla con `Start > Targets > Web Goat NG Start `. Copiamos la URL, nos vamos al ZAP y seleccionamos *Manual Explore* y ponemos la URL copiada. Desactivamos HUD y luego damos a *Launch Browser*.
