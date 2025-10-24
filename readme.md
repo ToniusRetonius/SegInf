@@ -47,9 +47,11 @@ Cursada segundo cuatri 2025
 
 - Teórica 17 : [ Malware](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T17/Resumen%20T17.pdf)
 
+- Teórica 18 : [Mecanismos de protección](https://github.com/ToniusRetonius/SegInf/blob/main/Te%C3%B3ricas/T18/Resumen%20T18.pdf)
+
 # Ejercicios
 
-- Unidad 1 : Introducción [Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/P1.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf).
+- Unidad 1 : Introducción [Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/P1.pdf) [ Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/1/solve.pdf)
 
 - Unidad 3 : Criptografía [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/practica_unidad3.pdf) [Solve](https://github.com/ToniusRetonius/SegInf/blob/main/Gu%C3%ADas/3/solve%20P3.pdf)
 
@@ -61,6 +63,7 @@ Cursada segundo cuatri 2025
 
 - Taller 1 : Seguridad en aplicaciones Web [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Talleres/Taller%201%20-%20seguridad%20en%20webapp/Enunciado.pdf) [ Notas](https://github.com/ToniusRetonius/SegInf/blob/main/Talleres/Taller%201%20-%20seguridad%20en%20webapp/readme.md)
 
+- Taller 2 : Pentesting [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/Talleres/Taller%202%20-%20pentest/Enunciado.pdf) [Notas](https://github.com/ToniusRetonius/SegInf/blob/main/Talleres/Taller%202%20-%20pentest/readme.md)
 
 # Trabajo Práctico
 
