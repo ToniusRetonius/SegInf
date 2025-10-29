@@ -58,6 +58,7 @@ Las respuestas no deben ser tan largas. Tal vez haga una intro al tema porque es
 
 
 2. Describa el concepto de forward secrecy. (1pto)
+
 Forward secrecy es una propiedad criptográfica (PFS) en protocolos de establecimiento de claves. El objetivo es que si se compromete la clave privada luego de cierta sesión, las sesiones anteriores no se compromenten. Se implementa con claves de sesión únicas y temporales.
 
 3. Discuta la siguiente afirmación: "Mi aplicación web es segura porque mantengo el servidor con los parches al día y sólo permito conexiones HTTPS". (1 pto)
@@ -65,9 +66,11 @@ Forward secrecy es una propiedad criptográfica (PFS) en protocolos de estableci
 Esta respuesta se puede encausar por el lado del rol de la confianza. Asumir que el fabricante de los parches testeó en todos los entornos, que los parches no son vulnerables, entre otras consideraciones, podría llegar a ser una asunción desacertada. Por otra parte, consideramos mecanismos para esterilizar la información que ingresa un usuario en nuestra web ? Seguir una política Zero Trust nos permite dudar de toda información externa. Evitando ataques XSS, SQLi (en caso de utilizar SQL).
 
 4. Describa la idea de type-enforcement en SE-linux (1 pto)
+
 Type-Enforcement en SE-Linux es un mecanismo de control en SE-Linux donde canda proceso y objeto del sistema tiene asociado un *tipo de seguridad*. De esta manera, sólo las combinaciones entre tipos autorizados por las políticas podrán acceder a los recursos del sistema. Las transiciones son cuando un proceso o archivo crea otro, se definen transiciones para definir los tipos de seguridad de los mismos.
 
 5. ¿Cual es la característica principal de un firewall stateful? (1 pto)
+
 Un firewall stateful es un tipo de firewall que guarda información respecto de las sesiones de red desde el comienzo hasta el final y filtra según ello. Es decir, el firewall puede registrar número de seq TCP, estado de conexión, y otras cosas. Por tanto, el control se hace sobre la sesión y no sobre cada paquete como lo hace el stateless (analiza paquete por paquete y no mantiene el estado de las conexiones para el filtrado)
 
 6. La universidad quiere implementar un sistema para que los profesores puedan registrar las actas de finales. Al analizar el mecanismo de autenticación, deben elegir entre usar usuario y contraseña, o usar pares de claves públicas/privadas para cada usuario. Indique dos ventajas del 2do mecanismo. (1 pto)
