@@ -45,6 +45,7 @@ man capabilities
 2. Usando dibujos y unas pocas palabras, ilustre el concepto de botnet. No escriba oraciones ni párrafos.(1pto)
 
 ![Botnet](https://raw.githubusercontent.com/ToniusRetonius/SegInf/main/Parciales/1C2019/botnet.png)
+
 Una botnet es una red de dispositivos comprometidos controlados por un atacante. El atacante usa la botnet para envío masivo de spam, ataques DDoS, minería de criptomonedas, entre otras cosas. Para que suceda, debe comprometer un servidor llamado **C&C (comando y control)** que a través de él realizará dichos ataques. Es la infraestructura usada por el atacante para coordinar los bots. Permite enviar órdenes, recibir resultados, distribuir actualizaciones y manejar la botnet.
 
 3. En control de acceso, ¿cuál es la dificultad que trae almacenar los permisos mediante listas de capacidades? (1pto)
