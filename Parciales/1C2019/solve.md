@@ -42,14 +42,15 @@ man capabilities
 ```
 
 2. Usando dibujos y unas pocas palabras, ilustre el concepto de botnet. No escriba oraciones ni párrafos.(1pto)
-![Botnet]()
+![Botnet](https://raw.githubusercontent.com/ToniusRetonius/SegInf/main/Parciales/1C2019/botnet.png)
 Una botnet es una red de dispositivos comprometidos controlados por un atacante. El atacante usa la botnet para envío masivo de spam, ataques DDoS, minería de criptomonedas, entre otras cosas. Para que suceda, debe comprometer un servidor llamado **C&C (comando y control)** que a través de él realizará dichos ataques. Es la infraestructura usada por el atacante para coordinar los bots. Permite enviar órdenes, recibir resultados, distribuir actualizaciones y manejar la botnet.
 
-3. En control de acceso, ¿cuál es la dificultad que trae almacenar los permisos mediante
-listas de capacidades? (1pto)
+3. En control de acceso, ¿cuál es la dificultad que trae almacenar los permisos mediante listas de capacidades? (1pto)
+Las listas de capacidades son listas que guardan los sujetos con los permisos que tienen sobre cada objeto del sistema, o sea, la fila de la matriz. El problema es si queremos ver quiénes y con qué permisos pueden acceder a cierto objeto, tenemos que recorrer todas las listas de capacidades que tiene cada uno de los sujetos del sistema.
+
 
 4. ¿Cuáles son los usos que se les da en seguridad a los números aleatorios? ¿Se debe tener alguna consideración a la hora de generarlos? (1pto)
+Los números aleatorios se suelen utilizar en criptografía para el vector de inicialización (IV) de algortimos de cifrado, claves secretas, protocolos challenge-response (el nonce que evita los replay-attacks), producir el flujo de claves en algortimos de flujo. Sí, que sean realmente aleatorios. Es decir, que no estén basados en fenómenos predictivos. Se distinguen dos tipos : aleatorios verdaderos (ruido físico, estado de computadora), pseudo-aleatorios (generado por algortimos que simulan aleatoriedad).
 
 5. Describa cómo realizaría el robo de sesión a un usuario autenticado en un sitio de apuestas online en la que las cookies de sesión no viajen cifradas por HTTPS, asumiendo que en la aplicación web no se ha descubierto ninguna vulnerabilidad en la implementación del código (ni SQLi, ni XSS). ¿Qué herramientas usaría? ¿Qué requisitos son necesarios para realizar el ataque? (1 pto)
-
-6. Se acercan las elecciones. Se le solicita implementar un sistema que permita a los ciudadanos consultar dónde votan, pero evitando que otro sistema automatizado pueda consultar el padrón electoral en forma completa. Indique consideraciones a tener en cuenta, incluyendo cuestiones de facilidad de uso y privacidad de datos para, por ejemplo, dificultar que un ciudadano curioso averigüe donde vive o donde vota su artista preferido. (1,5 ptos)
+Usaría Wireshark para sniffear la red, como la cookie viaja en texto plano, la copio y cuando yo tenga que interactuar con la web, le pego en el paquete esa cookie (cookie poisoning / spoofing)
