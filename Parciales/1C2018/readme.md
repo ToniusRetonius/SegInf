@@ -39,6 +39,10 @@ HMAC (hash-based message authentication code) es un mecanismo para asegurar que 
 
 2. Usando dibujos y unas pocas palabras, ilustre como un atacante puede sniffear tráfico en una red switcheada. No escriba oraciones ni párrafos.(1pto)
 
+![arp1](https://raw.githubusercontent.com/ToniusRetonius/SegInf/main/Parciales/1C2018/arp%20spoofing%201.png)
+
+![arp2](https://github.com/ToniusRetonius/SegInf/raw/main/Parciales/1C2018/arp%20spoofing%202.png)
+
 ARP spoofing, como ARP permite asociar cualquier IP con cualquier MAC, el atacante le dice al switch que él es la máquina target y a la máquina target que él es el switch.
 
 3. Describa la diferencia entre vulnerabilidad y amenaza. (1pto)
