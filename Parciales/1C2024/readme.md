@@ -43,7 +43,7 @@ La implementación de un CRAM con criptorafía asimétrica donde las claves no v
 
 2. Describa brevemente SHA1 indicando qué es y para qué se utiliza. ¿Por qué no se recomienda utilizarlo en nuevas aplicaciones? (1pto)
 SHA1 es una función de hash unidireccional que devuelve un resultado de 20 bytes que no se recomienda su uso ya que tiene vulnerabilidades debido a colisiones.
-
+(Falta agregar las propiedades de una función de Hahs)
 3. ¿Cómo se puede determinar de manera remota el sistema operativo de un equipo (sin tener credenciales en el mismo)?
 La manera más sencilla es simulando un *three-way-handshake* con el dispositivo *target*. O sea, vamos a mandar segmentos TCP/80 con el flag ACK. Esto nos permite decidir si se trata de un *stateless* (si recibimos un RST) o *stateful* (si nos ignora). Sino, usamos 
 ```bash
@@ -60,11 +60,11 @@ En aplicaciones web, si tenemos que llenar por ejemplo un formulario con nombre,
 tonius ; SELECT * 
 ```
 
-- O se haga un ataque XSS (cross-site scripting) donde se inyecta algo como <scrypt>"código malicioso"</scrypt>
+XSS  (no es injection (mirar que en OWASP son categorías separadas)). La otra es la command injection.
 
 5. Defina y compare los conceptos de honeypot y honeytoken. (1 pto)
 Honeypot es un recurso deliberadamente expuesto con el objetivo de atraer, detectar y estudiar actividades maliciosas. La idea es que se comporte como un señuelo. Un honeytoken es un señuelo digital cuyo objetivo es detectar su uso no autorizado (cualquier interacción es considerada un inicio de compromiso).
 
 6. La empresa joyanuncataxi.com provee un servicio web para publicar, en forma gratuita, anuncios clasificados de productos de segunda mano. Al realizar el alta de los mismos, además de la descripción del producto o servicio, se piden datos del anunciante, como email o teléfono celular. La empresa recibió reportes de varias personas que recibieron llamados a sus teléfonos celulares, en cualquier horario, relacionados con anuncios del sitio, pero que ellos no habían publicado. Proponga un mecanismo para minimizar la posibilidad de ocurrencia de estos incidentes. (1 pto)
 
-Muy posiblemente, en el momento de realizar el alta de los productos, los oferentes ponen toda su información en un formulario que impacta contra una base de datos SQL. El atacante seguro logró inyectar código SQL y al producirse esta filtración de números, se pudo realizar el llamado a cualquier hora de la noche. La solución más rápida es sanitizar la entrada, filtrando todos los caracteres de escape. De paso, resolvemos algún intento de XSS.
+El problema es que no chequean la data y por eso, no validan que los números sean de quién dicen ser.

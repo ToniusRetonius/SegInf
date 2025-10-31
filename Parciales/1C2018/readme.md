@@ -13,8 +13,8 @@
     - **D. Convierte un mensaje de longitud fija en un valor de longitud arbitraria.**
 3. Indique la opción falsa. Un ataque de reset de conexiones TCP
     - A. Requiere conocer direcciones ip y puertos de origen y destino. El paquete sólo es aceptado si se conoce el cuarteto de sockets TCP.
-    - **B. Requiere conocer los nros. de secuencia**
-    - C. Requiere que la conexión no esté cifrada. Para poder sniffear y saber el src_ip , src_port, dst_ip, dst_port
+    - B. Requiere conocer los nros. de secuencia
+    - **C. Requiere que la conexión no esté cifrada.** Para poder sniffear y saber el src_ip , src_port, dst_ip, dst_port, pero, vale adivinar, con lo cual, no es 100% necesario.
     - D. Es unilateral. Mandamos nosotros el segmento con RST prendido.
 4. ¿Cuál de los siguientes no es un objetivo de los sistemas criptográficos?
     - A. No repudio. La firma digital es para el no repudio.
@@ -50,7 +50,7 @@ ARP spoofing, como ARP permite asociar cualquier IP con cualquier MAC, el atacan
 Una vulnerabilidad es un problema de seguridad que puede ser explotado. Una amenaza es factor externo que puede activa o pasivamente intentar explotarla.
 
 4. ¿Cuales son las limitaciones de los permisos básicos de acceso a archivos (lectura, escritura, ejecución) en los sistemas linux? ¿Como se pueden resolver?(1pto)
-No es granular en el sentido de que tenés un super user que puede hacer todo. Con Capabilities podés ser más granular por proceso y evitar utilizar SETUID y correr riesgos de escalada de privilegios entre otras.
+La respuesta está orientada a owner-group-others y el uso de Posix ACLs.
 
 5. Una aplicación web utiliza datos no confiables en la construcción del código HTML sin validarlos o codificarlos. ¿Con qué nombre se conoce a esta vulnerabilidad? (1pto)
 

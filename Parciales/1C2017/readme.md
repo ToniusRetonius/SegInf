@@ -18,9 +18,9 @@
     - **D. Flood**
 4. En criptografía, ¿con que está relacionada la sigla MAC?
     - A. Media Access Control
-    - B. Message authentication code
+    - **B. Message authentication code**
     - C. Multiple advisory committees
-    - **D. Mandatory Access Control.**
+    - D. Mandatory Access Control.
 5. ¿Qué algoritmo de clave simétrica usa cifrado por flujos para cifrar la información?
     - **A. RC4**
     - B. Blowfish
