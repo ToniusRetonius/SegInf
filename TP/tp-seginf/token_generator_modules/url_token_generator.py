@@ -1,15 +1,7 @@
 from criptography_modules.sign_modules.token_sign_module import sign_message
-
+from url_creator import create_url
 def create_url_token():
-    message = "honey123"
-    
-    # ciframos el mensaje ? Es esencial ? o sólo con firmarlo alcanza ?
-    token = sign_message(message)
-    
-    url = f"http://localhost:9999/{token}"
-    
+    url = create_url()
     print("\nURL generada:")
-    
     print(url)
-
     return url

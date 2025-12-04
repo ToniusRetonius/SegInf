@@ -1,11 +1,8 @@
-# import qrcode
-from criptography_modules.sign_modules.token_sign_module import sign_message
+import qrcode
+from url_creator import create_url
 
-def create_qr_token(output="honey.png"):
-    message = "qr123"
-    # token = sign_message(message)
-    # url = f"http://localhost:9999/{token}"
-    # img = qrcode.make(url)
-    # img.save(output)
-    print(message)
-    # print(f"QR creado: {output}")
+def create_qr_token(file_name):  
+    honey_url = create_url()
+    img = qrcode.make(honey_url)
+    img.save(file_name)
+    print(f"\n[OK] QR generado correctamente : {file_name}")

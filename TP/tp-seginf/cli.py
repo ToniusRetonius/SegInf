@@ -1,6 +1,3 @@
-import os
-from criptography_modules.key_generator_modules.priv_pub_key_generator import private_key, public_key  
-
 import argparse
 from token_generator_modules.pdf_token_generator import create_pdf_token
 from token_generator_modules.url_token_generator import create_url_token
@@ -22,12 +19,12 @@ def main():
     # sanitizamos ? o con choices ya está ?
 
     # según el type, decidimos qué hacer :
-    if token_type == 'pdf':
-        create_pdf_token()
-    elif token_type == 'qr':
-        create_qr_token()
-    elif token_type == 'url':
+    if token_type == 'url':
         create_url_token()
+    elif token_type == 'qr':
+        create_qr_token(output_name_file)
+    elif token_type == 'pdf':
+        create_pdf_token(output_name_file)
 
 if __name__ == "__main__":
     main()

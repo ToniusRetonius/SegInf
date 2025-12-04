@@ -35,18 +35,17 @@ class handlerHoneyServer(BaseHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(b'OK.\n')
         except Exception as e:
+            self.send_response(404)
+            self.end_headers()
+            self.wfile.write(b'Not found.\n')
+            # DEBUG
             print(f"[ERROR] Falló verificación: {e}")
             print(f"[DEBUG] Token recibido: {token}")
             print(f"[DEBUG] Message: {message}")
             print(f"[DEBUG] Signature (base64): {signature_b64}")
 
-            self.send_response(404)
-            self.end_headers()
-            self.wfile.write(b'Not found.\n')
-
-
 if __name__ == "__main__":
-    print('Servidor corriendo en http://localhost:9999')
+    print('Servidor corriendo en http://0.0.0.0:9999')
     server = HTTPServer(("0.0.0.0", 9999), handlerHoneyServer)
     
     try:
