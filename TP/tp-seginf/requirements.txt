@@ -1,2 +1,4 @@
 qrcode[pil]
 cryptography
+fpdf
+pypdf

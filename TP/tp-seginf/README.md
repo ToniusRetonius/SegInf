@@ -126,5 +126,10 @@ source venv/bin/activate
 Después de activarlo tenemos que ver algo como :
 (venv) .../prueba
 `````bash
-pip install -r requierements.txt
+pip install -r requirements.txt
 `````
+O más fácil todo junto:
+`````bash
+python3 -m venv venv ; source venv/bin/activate ; pip install -r requirements.txt
+`````
+
