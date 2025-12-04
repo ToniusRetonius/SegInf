@@ -2,3 +2,4 @@ qrcode[pil]
 cryptography
 fpdf
 pypdf
+pyzbar

@@ -133,3 +133,7 @@ O más fácil todo junto:
 python3 -m venv venv ; source venv/bin/activate ; pip install -r requirements.txt
 `````
 
+La idea es que una vez que lo generamos al QR con las directivas del programa, localmente corremos el script *scanQR.py* que recibe como parámetro el QR-honeytoken para hacer el scan.
+
+### PDF
+Con respecto al pdf, hay algunos detalles (hay un comentario en el código) como por ejemplo que Acrobat Reader corre JS inyectado, pero la mayoría de los lectores no. La idea es que si lo abren con Acrobat se ejecute directamente, pero si no, dejamos una url para que el usuario busque más información. 
