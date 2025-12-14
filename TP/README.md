@@ -21,7 +21,8 @@ sudo apt install docker-compose
 ```bash
    sudo docker attach honey-cli
 ```
-    A partir de este punto, el usuario puede utilizar los comandos de la CLI para generar honeytokens.
+
+A partir de este punto, el usuario puede utilizar los comandos de la CLI para generar honeytokens.
 
 ## Generación de HoneyTokens
 A partir del comando *generate*, se pueden crear distintos tipos de honeytokens según el uso deseado. (Ver más información sobre el uso en la sección de *Manual de uso y prueba* del informe). Según corresponda, los archivos creados estarán disponibles en *app/generated*.
@@ -35,6 +36,7 @@ A partir del comando *generate*, se pueden crear distintos tipos de honeytokens 
    generate qr --mail usuario@mail.com --message "texto" --nameFile "name"
 ```
 ### WebImage
+Este caso es particular ya que el usuario deberá proveer de la imagen (que deberá encontrarse dentro del contenedor en *honey−cli:/app/*. Mirar el informe para mayor información)
 ```bash
    generate webImage --mail usuario@mail.com --message "texto" --image image.png
 ```
