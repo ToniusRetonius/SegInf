@@ -68,3 +68,6 @@ Cursada segundo cuatri 2025
 # Trabajo Práctico
 
 - TP Seguridad [ Enunciado](https://github.com/ToniusRetonius/SegInf/blob/main/TP/Enunciados.pdf)
+[ Presentación Oral](https://github.com/ToniusRetonius/SegInf/blob/main/TP/Honeytokens-ppt.pdf)
+[ Informe](https://github.com/ToniusRetonius/SegInf/blob/main/TP/Informe.pdf)
+[ TP-Final](https://github.com/ToniusRetonius/SegInf/blob/main/TP/honeyTokens-final.zip)
